@@ -22,7 +22,7 @@ return function()
     -- Cursor & LineNumber Colors
     cursor = '#c8e1ff',
     cursor_line_nr = '#e1e4e8',
-    line_nr = '#444d56',
+    line_nr = '#8b949e',
 
     -- LSP & Diagnostic Colors
     error = '#f97583',
